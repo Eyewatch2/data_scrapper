@@ -1,6 +1,4 @@
 
-var currentUrl = {}
-
 function e(e, t, n, o, r, a, i) {
     var s = {},
         c = null,
