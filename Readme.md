@@ -48,4 +48,4 @@
 - **Botones de Descarga de CSV y XLSX:** están activos de inmediato cuando se encuentra algún dato.
 - **Scroll Infinito:** la extensión puede desplazarse hacia abajo en páginas donde se carga más información dinámicamente. Detecta automáticamente cuando se detiene la carga de nuevos datos.
 
-> :ADVERTENCIA: **Esta extensión es solamente para el uso interno de la empresa. No se debe distribuir.
+:warning: **ADVERTENCIA:** Esta extensión es para uso interno. No distribuir.
