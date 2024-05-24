@@ -4,7 +4,7 @@
 **Pasos de Instalación:**
 
 1. **Descargar la Extensión:**
-   - Descarga la extensión, generalmente como un archivo comprimido (.zip).
+   - Descarga el repositorio con el comando ```git clone https://github.com/Eyewatch2/data_scrapper.git``` o descargando el archivo .zip.
 
 2. **Descomprimir la Extensión:**
    - Si la extensión se descargó como un archivo .zip, descomprímelo en una ubicación accesible en tu computadora.
