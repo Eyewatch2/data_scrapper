@@ -47,3 +47,5 @@
 - **Delay de Rastreo:** tiempo en segundos antes de pasar a la siguiente página. El valor predeterminado es de 1 segundo, pero puede aumentarse cuando las páginas cargan información dinámicamente.
 - **Botones de Descarga de CSV y XLSX:** están activos de inmediato cuando se encuentra algún dato.
 - **Scroll Infinito:** la extensión puede desplazarse hacia abajo en páginas donde se carga más información dinámicamente. Detecta automáticamente cuando se detiene la carga de nuevos datos.
+
+> :ADVERTENCIA: **Esta extensión es solamente para el uso interno de la empresa. No se debe distribuir.
