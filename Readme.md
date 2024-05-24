@@ -4,7 +4,9 @@
 **Pasos de Instalación:**
 
 1. **Descargar la Extensión:**
-   - Descarga el repositorio con el comando ```git clone https://github.com/Eyewatch2/data_scrapper.git``` o descargando el archivo .zip.
+   - En una carpeta a la cual accedas fácilmente, clona el repositorio con el comando 
+   ```git clone https://github.com/Eyewatch2/data_scrapper.git```
+   en una terminal o descarga el archivo .zip del mismo.
 
 2. **Descomprimir la Extensión:**
    - Si la extensión se descargó como un archivo .zip, descomprímelo en una ubicación accesible en tu computadora.
@@ -14,7 +16,7 @@
 
 4. **Habilitar el Modo de Desarrollador:**
    - Haz clic en el icono de tres puntos verticales en la esquina superior derecha de la ventana del navegador.
-   - En el menú desplegable, selecciona "Más herramientas" y luego "Extensiones".
+   - En el menú desplegable, selecciona "Extensiones" y luego "Administrar extensiones".
    - En la página de extensiones, busca la opción "Modo de desarrollador" en la esquina superior derecha de la ventana y actívala si aún no está habilitada.
 
 5. **Cargar la Extensión:**
